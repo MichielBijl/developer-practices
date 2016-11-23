@@ -1,0 +1,15 @@
+{
+  "name": "developer-practices",
+  "version": "0.0.0",
+  "description": "This repository maintains the developer practices.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichielBijl/developer-practices.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichielBijl/developer-practices/issues"
+  },
+  "homepage": "https://github.com/MichielBijl/developer-practices#readme"
+}
